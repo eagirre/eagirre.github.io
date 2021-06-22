@@ -13,7 +13,7 @@ I am a Full Professor at the Computer Science Faculty of the [University of the 
 Recent talks, award, projects
 ======
 *   Spanish National Prize on Informatics Research ([details](https://www.scie.es/otorgados-los-premios-de-investigacion-scie-fbbva-2021/)), 2021
-*   LIHLITH project on Lifelong Learning for Dialogue selected as success story at [CHIST-ERA meeting](https://www.chistera.eu/news/chist-era-projects-seminar-2021-had-good-turnout) ([project website](http://www.ixa.eus/lihlith/eneko a)), 2021
+*   LIHLITH project on Lifelong Learning for Dialogue selected as success story at [CHIST-ERA meeting](https://www.chistera.eu/news/chist-era-projects-seminar-2021-had-good-turnout) ([project website](http://www.ixa.eus/lihlith/)), 2021
 *   Honourable mention paper award (top 1%) at EMNLP ([details](https://2020.emnlp.org/blog/2020-11-19-best-papers)), 2020
 *   Outstanding Paper award (top 2%) at COLING ([details](https://coling2020.org/)), 2020
 *   Member of government evaluation body (ANEP area TIC), 2020
