@@ -38,8 +38,7 @@ Older activities
 *   [SemEval 2019](http://alt.qcri.org/semeval2019) steering committee
 *   Co-organizer of [Semantic Textual Similarity](http://ixa2.si.ehu.eus/stswiki) task on [SemEval 2017](http://alt.qcri.org/semeval2017/) [task 1](http://alt.qcri.org/semeval2017/task1/).  
 *   Standing reviewer for [TACL](http://www.transacl.org/) (2014-2018)
-<!-- talks and awards 2019 or older -->
-*   [Nomination for the best paper award](http://www.acl2019.org/EN/nominations-for-acl-2019-best-paper-awards.xhtml) at the Conference of the Association for Computational Linguistics, July, 2019.  
+<!-- talks and awards 2019 or older -->*   [Nomination for the best paper award](http://www.acl2019.org/EN/nominations-for-acl-2019-best-paper-awards.xhtml) at the Conference of the Association for Computational Linguistics, July, 2019.  
 *   Keynote talk at the [Conference in Computational Collective Intelligence](http://iccci.sigappfr.org/keynote-speakers/), Hendaye, Basque Country, September, 2019  
 *   Keynote talk at the [conference of the Spanish NLP society (SEPLN)](http://hitz.eus/sepln2019/?q=node/3), Bilbao, Basque Country, September, 2019  
 *   Invited talk at BCBL, Donostia, Basque Country, November, 2019  
