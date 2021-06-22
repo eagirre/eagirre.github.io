@@ -7,7 +7,6 @@ author_profile: true
 
 
 Visiting students and professors:
-=====
 
 *    2020 Ahmed Sabir (from Universitat Politecnica de Catalunya in Barcelona)
 *    2020 Jiawei Zhao (from Massey University in Auckland)
