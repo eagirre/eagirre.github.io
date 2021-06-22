@@ -61,5 +61,34 @@ Recent talks, award, projects
 
 Recent activities
 ======
-...
+*   Associate Editor for the [JAIR](https://www.jair.org/) journal (2021-)
+*   [SemEval 2021](https://semeval.github.io/SemEval2021/) steering committee
+*   [SemEval 2020](http://alt.qcri.org/semeval2020) steering committee
+*   Action Editor for [TACL](http://www.transacl.org/) (2018-2021)
+*   Senior Area Chair for [ACL 2019](www.acl2019.org/)
+*   [SemEval 2019](http://alt.qcri.org/semeval2019) steering committee
+*   Co-organizer of [Semantic Textual Similarity](http://ixa2.si.ehu.eus/stswiki) task on [SemEval 2017](http://alt.qcri.org/semeval2017/) [task 1](http://alt.qcri.org/semeval2017/task1/).  
+
+*   Standing reviewer for [TACL](http://www.transacl.org/) (2014-2018)
+*   Co-organizer of the [2nd Workshop on Semantics-Driven Machine Translation](http://hlt.suda.edu.cn/workshop/sedmt2016/) at NAACL 2016  
+
+*   Co-organizer of [Semantic Textual Similarity](http://ixa2.si.ehu.eus/stswiki) tasks on [SemEval 2016](http://alt.qcri.org/semeval2016/) ([task 1](http://alt.qcri.org/semeval2016/task1/) and [task 2 on Interpretability](http://alt.qcri.org/semeval2016/task2/)).  
+
+*   Senior Program Committee Member of [IJCAI 2016](http://ijcai-16.org/)  
+
+*   Tutorial co-chair [ACL-IJCNLP 2015](http://acl2015.org/)  
+
+*   Co-organizer of [SSST workshop](http://www.cs.ust.hk/%7Edekai/ssst/) on Syntax, Semantics and Structure in Statistical Translation at NAACL 2015  
+
+*   Senior Program Committee Member of [AAAI 2015](http://www.aaai.org/Conferences/AAAI/aaai15.php)  
+
+*   Co-organizer of [Semantic Textual Similarity task](http://ixa2.si.ehu.eus/stswiki) on [SemEval 2015](http://alt.qcri.org/semeval2015/) ([task 2](http://alt.qcri.org/semeval2015/task2/)).  
+
+*   Co-organizer of [Semantic Textual Similarity task](http://ixa2.si.ehu.eus/stswiki) on [SemEval 2014](http://alt.qcri.org/semeval2014/) ([task 10](http://alt.qcri.org/semeval2014/task10/)).  
+
+*   Area chair on Lexical Semantics and Ontology for [ACL 2014](http://www.cs.jhu.edu/ACL2014/)  
+
+*   Co-organizer of the [Shared task](http://ixa2.si.ehu.eus/sts/) of [*SEM 2013](http://clic2.cimec.unitn.it/starsem2013/) on Semantic Textual Similarity
+*   President of [ACL](http://www.aclweb.org/) [SIGLEX](http://www.clres.com/siglex.html) (2010-2013)
+*   Editorial board member of Computational Linguistics ([official](http://www.mitpressjournals.org/loi/coli), [extra](http://cljournal.org/)) (2011-2013)
 
