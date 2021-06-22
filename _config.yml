@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eneko Agirre"
+title                    : "Eneko Agirre - Website"
 title_separator          : "-"
 name                     : &name "Eneko Agirre"
 description              : &description "personal description"
