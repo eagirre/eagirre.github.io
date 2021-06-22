@@ -37,25 +37,15 @@ Older activities
 *   Senior Area Chair for [ACL 2019](www.acl2019.org/)
 *   [SemEval 2019](http://alt.qcri.org/semeval2019) steering committee
 *   Co-organizer of [Semantic Textual Similarity](http://ixa2.si.ehu.eus/stswiki) task on [SemEval 2017](http://alt.qcri.org/semeval2017/) [task 1](http://alt.qcri.org/semeval2017/task1/).  
-
 *   Standing reviewer for [TACL](http://www.transacl.org/) (2014-2018)
-
 <!-- talks and awards 2019 or older -->
-
 *   [Nomination for the best paper award](http://www.acl2019.org/EN/nominations-for-acl-2019-best-paper-awards.xhtml) at the Conference of the Association for Computational Linguistics, July, 2019.  
-
 *   Keynote talk at the [Conference in Computational Collective Intelligence](http://iccci.sigappfr.org/keynote-speakers/), Hendaye, Basque Country, September, 2019  
-
 *   Keynote talk at the [conference of the Spanish NLP society (SEPLN)](http://hitz.eus/sepln2019/?q=node/3), Bilbao, Basque Country, September, 2019  
-
 *   Invited talk at BCBL, Donostia, Basque Country, November, 2019  
-
 *   [Invited talk](https://set.kuleuven.be/phd/meet-the-jury-2018-2019/Agirre) at the Catholic University of Leuven, Belgium, May, 2019  
-
 *   Prestigious BBVA [project](https://www.fbbva.es/equipo/el-uso-de-big-data-para-que-los-ordenadores-mejoren-la-comprension-de-textos-en-espanol-catalan-vasco-y-gallego/), 2019-2021  
-
 *   Three day crash course on [Deep Learning and NLP](http://ixa2.si.ehu.es/deep_learning_seminar/) in English, UPV/EHU, San Sebastian, July 2019  
-
 *   Recipient of a 2018 [Best PhD thesis award](https://www.ehu.eus/ehusfera/ixa/2018/11/05/best-thesis-award-in-sepln-aitor-gonzalez-2018-09-13) to his PhD student Aitor Gonzalez-Agirre by the Spanish NLP society (SEPLN), September, 2019
 *   Recipient of a 2018 [Google Faculty Research Award](https://ai.google/research/outreach/faculty-research-awards/)
 *   Invited tutorial on [Deep Learning for NLP](http://www.ai-lc.it/lectures-2019-it/tutorials/), organized by the [Italian Association of Computational Linguistics](http://www.ai-lc.it/en/lectures-2019/), Pavia, May 2019 ([slides](slides/DL4NLP2h.v5.pavia.pdf))  
