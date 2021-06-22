@@ -2,24 +2,6 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Projects"
-    url: /projects/
-
-  - title: "Activities"
-    url: /talks/    
-
-  - title: "Alumni"
-    url: /alumni/    
-    
-  - title: "Visitors"
-    url: /visitors/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Blogs"
-    url: /year-archive/
     
  - title: "Contact"
     url: /contact/
