@@ -129,3 +129,88 @@ Visiting students and professors:
 *    2008 Pierpaolo Basile (from University of Bari)
 *    2007 Mark Stevenson (from University of Sheffield)
 *    2007 Alfio Gliozzo (from FBK, Trento)
+
+
+Past activities ...
+=====
+
+*   [Invited talk](http://lct-master.org/contents_2014/agenda2016.php) at [Annual Meeting of the LCT master program (2016)](http://lct-master.org/contents_2014/annualMeeting2016.php)  
+
+*   [Invited speaker](http://propor2016.di.fc.ul.pt/?page_id=748) at the Internationa Conference on the Computational Processing of Portuguese ([PROPOR2016](http://propor2016.di.fc.ul.pt/))  
+
+*   Recipient of a 2015 [Google Research Award](http://googleresearch.blogspot.com.es/2016/02/google-research-awards-fall-2015.html)
+*   [Guest speaker](http://nlp.cs.buap.mx/escuela/) at the Escuela de Otoño, Mexico 2016  
+
+*   [Invited talk](https://www.ukp.tu-darmstadt.de/ukp-home/news-singleview/artikel/guest-speaker-eneko-agirre/) at the UKP group at Darmstadt in 2015  
+
+*   Invited talk at the [Workshop on Semantic Annotation and Processing 2014](https://cst.ku.dk/projekter/projekter_slut/semantikprojekt/arrangementer/information/)
+*   European project on multimodal processing ([Muster](http://www.chistera.eu/projects/muster) 2015-2018)  
+
+*   European project on machine reading ([Readers](http://nlp.uned.es/readers-project/) 2013-2016).
+*   European project on semantics to improve Machine Translation ([QTLeap](http://qtleap.eu/) 2013-2016).  
+
+*   Double [master program](http://ixa.si.ehu.eus/master) on language processing awarded Erasmus Mundus status (2014-).
+*   European project on narratives for news ([Newsreader](http://www.newsreader-project.eu/) 2013-2015).
+*   European project on deploying semantic enrichment on digital libraries ([LoCloud](http://www.locloud.eu/) 2012-2014)  
+
+*   Invited to the Google Workshop on Natural Language Understanding at Google Zurich 2014.  
+
+*   Invited talk at [JSSP 2013](http://jssp2013.fbk.eu/) ([Understanding text with knowledge bases and random walks](http://jssp2013.fbk.eu/sites/jssp2013.fbk.eu/files/Eneko.pdf) and [STS - with Mona Diab](http://jssp2013.fbk.eu/sites/jssp2013.fbk.eu/files/Mona.pdf)).  
+
+*   Invited talk at [Mavir Doctoral Consortium 2013](http://www.mavir.net/events/165-jd2013) ([slides](file:///home/jipagbee/Mahaigaina/slides/mavir2011.pdf))  
+
+*   My research group was awarded the [Abbadia 2013 prize](http://www.unibertsitatea.net/blogak/ixa/2013/12/04/ixa-taldia-abadia-saria/) for advancing the normalization of Basque.  
+
+*   Arantza Otegi (PhD student) wins [Koldo Mitxelena 2013 prize](http://www.unibertsitatea.net/blogak/ixa/2013/01/18/koldo-mitxelena-saria-arantxa-otegiri/) for best technical PhD in Basque  
+
+*   Local PI of CHIST-ERA project [READERS](http://nlp.uned.es/readers-project) on Machine Reading (2013-2015)
+*   Helped build [Google's dictionary for entities and ideas](http://googleresearch.blogspot.com.es/2012/05/from-words-to-concepts-and-back.html)
+*   Local PI of FP7 Project [PATHS](http://www.paths-project.eu) on access to Cultural Heritage (2011-2013)  
+
+*   Scholarpedia article about [Word Sense Disambiguation](http://www.scholarpedia.org/article/Word_sense_disambiguation)
+*   Co-organizer of a [SemEval 2012 task on Semantic Textual Similarity](http://www.cs.york.ac.uk/semeval-2012/task6/)  
+
+*   General chair and co-founder (with Mona Diab and Johan Bos) of a new conference on semantics [*SEM 2012](http://ixa2.si.ehu.eus/starsem/)  
+
+*   Invited course on the winter school on language and specch technologies [WSLST 2012](http://grammars.grlmc.com/wslst2012/)  
+
+*   Area chair on Ontology and Lexicon for [ACL 2012](http://www.acl2012.org/)  
+
+*   Tutorial chair for [EACL 2012](http://eacl2012.org/)  
+
+*   Co-organizer of [TPDL 2012](http://www.tpdl2012.org/) workshop on [Supporting Users' Exploration of Digital Libraries](http://ixa2.si.ehu.eus/suedl/)
+*   Invited talk at the [Mavir meeting](http://www.mavir.net/events/96-jornadas-mavir-2011), Madrid, 2011 ([slides](slides/mavir2011.pdf))  
+
+*   [Seminar](http://www.ai.sri.com/seminars/detail.php?id=357) at SRI, Menlo Park, 2011  
+
+*   Visiting associate professor, Stanford [NLP group](http://nlp.stanford.edu/) (Summer 2011)
+*   PI of the co-ordinated [KNOW2](http://ixa.si.ehu.eus/know2) project ([intranet](http://ixa2.si.ehu.eus/know2))  (2010-2012)
+*   Participant in the [Europeana version 1.0](http://version1.europeana.eu/web/europeana-project/) project ([euskaraz](http://www.unibertsitatea.net/blogak/ixa/europeana-v10-sarean-sartzera-gonbidatu-dute-ixa-taldea)) (2010-2012) 
+*   Participant in EC FP7 Project [KYOTO](http://www.kyoto-project.eu/) ([intranet](http://www2.let.vu.nl/twiki/bin/view/Kyoto/WebHome)) (2008-2011)
+*   Area chair for semantics in EMNLP 2010
+*   Area chair for semantics in ACL-IJCNLP 2010
+*   Secretary of [SIGLEX](http://www.clres.com/siglex.html) (2007-2010)
+*   Panelist on the future of Semeval, ACL 2010, Uppsala, Sweden  
+
+*   5-day Seminar on “[Semantic processing of text](http://dottorato.di.uniba.it/seminari/seminari.htm)”, 2010, Bari, Italy ([Links](bari.html))  
+
+*  Organizer of [SemEval 2010](http://semeval2.fbk.eu/semeval2.php) task [WSD on a Specific Domain](http://xmlgroup.iit.cnr.it/SemEval2010/)
+*  Co-editor of LRE journal [special issue on Computational Semantic Analysis of Language](http://www.springerlink.com/content/g04675w56002/?p=60b045834cb44c5ba5066770b3d237e5&pi=2) (2010)
+*   Visiting associate professor, Stanford NLP group, 2009 
+*   Invited talk at Google, Mountain View, 2009 ([slides](slides/google.v1.pdf))
+*   Organizer of the [Robust WSD task](http://ixa2.si.ehu.eus/clirwsd) @ CLEF 2009
+*  Area co-chair for semantics in [ACL-IJCNLP 2009](http://www.acl-ijcnlp-2009.org/)
+*   Co-chair of HLT-NAACL workshop on Semantic Evaluations ([SEW-2009](http://www.lsi.upc.edu/%7Elluism/sew2009))
+*   Area chair for word senses in [EMNLP 2008](http://conferences.inf.ed.ac.uk/emnlp08/).
+*   Organizer of CLEF 2008 tasks on [QA<sub>WSD</sub>](http://ixa2.si.ehu.eus/qawsd) and [CLIR<sub>WSD</sub>](http://ixa2.si.ehu.eus/clirwsd).
+*   Co-chair of [SemEval-2007](http://nlp.cs.swarthmore.edu/semeval/) (formerly Senseval).  
+*   Coordination of two tasks in SemEval-2007: [WSD/CLIR interaction](http://ixa2.si.ehu.eus/semeval-clir) and [WS induction](http://ixa2.si.ehu.eus/semeval-senseinduction).
+*   Australian HCSNet visiting scholar in 2007\. Check the [seminars](http://www.hcsnet.edu.au/hcsnetevents/2007/agirre) and [video](http://www.ict.csiro.au/HAIL/video/2007/EnekoAgirre.wmv). 
+*   PI of the co-ordinated KNOW [project](http://ixa.si.ehu.eus/know) ([intranet](http://ixa2.si.ehu.eus/know)) funded by the Education Ministry (2007-2009)
+*   [WSD demo](http://ixa3.si.ehu.eus/wsd-demo/) for Basque
+*  [ML features](http://ixa2.si.ehu.eus/semeval-clir/index_fitxategiak/task1.semcor1.6feats.v2.tar.gz) for all content words with more than 10 occurrences in SemCor 1.6\. More details [here](http://ixa2.si.ehu.eus/semeval-clir). The senses can be easily mapped to other WN versions [here](http://www.lsi.upc.edu/%7Enlp/tools/mapping.html).
+
+*   [Lexico-semantic relations](http://ixa.si.ehu.eus/Ixa/resources/EH-erlazioak) for Basque headwords.
+*   GWN tutorial on Automatic WordNet construction 
+*   Conceptual Density in Perl 
+*  Project related data: [CESS-ECE](http://www.lsi.upc.edu/%7Embertran/cess-ece/) project, [MEANING](http://www.lsi.upc.es/%7Enlp/meaning/) project
