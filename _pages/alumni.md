@@ -8,6 +8,7 @@ author_profile: true
 
 PhD students and alumni:
 
+*    Oscar Sainz (2020-)
 *    Aitor Ormazabal (2020-)
 *    Inigo Etxeberria (2020-)
 *    Ander Salaberria (2020-)
