@@ -37,6 +37,6 @@ MWSD
 The book on WSD:
 *	Word Sense Disambiguation: Algorithms and applications ([Springer](https://www.springer.com/gp/book/9781402048081#otherversion=9781402068706). Agirre, Eneko; Edmonds, Philip (Eds.) 2006 and 2007. 
 
-A cartoon in Basque about the ambiguity of /baso/ (forest or glass). 
+A cartoon in Basque about the ambiguity of *baso* (forest or glass). 
 ![Cartoon](images/zaki-baso.jpg?raw=true)
 Credit: Olariaga, [berria.eus](https://berria.eus)
