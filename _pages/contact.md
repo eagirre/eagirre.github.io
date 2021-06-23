@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 
-+ Postal Address: Eneko Agirre, Faculty of Informatics, University of the Basque Country (UPV/EHU), Manuel de Lardizabal, 1, 20018 Donostia-San Sebastian.
++ Postal Address: Eneko Agirre, Faculty of Informatics, University of the Basque Country (UPV/EHU), Manuel de Lardizabal, 1, 20018 Donostia-San Sebastian. Spain.
 + Phone: +34 943 015 019
 + Office 255
