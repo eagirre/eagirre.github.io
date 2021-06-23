@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eneko Agirre - Website"
+title                    : "Eneko Agirre"
 title_separator          : "-"
 name                     : &name "Eneko Agirre"
 description              : &description "personal description"
@@ -84,10 +84,10 @@ author:
   avatar           : "ea.jpg"
   bio              : "Professor"
   location         : "Donostia-San Sebastián"
-  employer         : "Ixa Group, HiTZ centre, UPV/EHU"
+  employer         : "Ixa Group, HiTZ centre! <br> "UPV/EHU"
   pubmed           : 
   googlescholar    : "https://scholar.google.es/citations?user=kSuqts0AAAAJ&hl=en"
-  email            :
+  email            : "e.agirre + ehu + eus"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
