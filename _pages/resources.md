@@ -1,4 +1,11 @@
 
+---
+layout: archive
+title: "Resources"
+permalink: /resources/
+author_profile: true
+---
+
 For newer resources check the websites of my collaborators or drop me a note.
 
 *   [Interpretable Semantic Textual Similarity dataset](http://alt.qcri.org/semeval2016/task2/)
