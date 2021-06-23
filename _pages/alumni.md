@@ -6,14 +6,17 @@ author_profile: true
 ---
 
 
-PhD students and alumni:
+Current PhD students:
 
 *    Oscar Sainz (2020-)
 *    Aitor Ormazabal (2020-)
 *    Inigo Etxeberria (2020-)
 *    Ander Salaberria (2020-)
 *    Jon Ander Campos (2019-)
+*    Jan Deriu (ETH Zurich, 2018-)
 *    Andoni Azpeitia (2017-)
+
+Alumni:
 *    Mikel Artetxe (2020, Facebook Artificial Intelligence Research)
 *    Iñigo Lopez-Gazpio (2018, assistant professor at Deusto University)
 *    Josu Goikoetxea (2017, assistant professor at University of the Basque Country)
