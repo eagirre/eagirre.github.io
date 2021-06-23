@@ -31,9 +31,12 @@ Recent activities
 *   [SemEval 2020](http://alt.qcri.org/semeval2020) steering committee
 *   Action Editor for [TACL](http://www.transacl.org/) (2018-2021)
 
-My book on WSD
+MWSD
 ======
+
+The book on WSD:
 *	Word Sense Disambiguation: Algorithms and applications ([Springer](https://www.springer.com/gp/book/9781402048081#otherversion=9781402068706). Agirre, Eneko; Edmonds, Philip (Eds.) 2006 and 2007. 
 
-
-![Cartoon](images/zaki-baso.jpg?raw=true "Title")
+A cartoon in Basque about the ambiguity of /baso/ (forest or glass). 
+![Cartoon](images/zaki-baso.jpg?raw=true)
+Credit: Olariaga, [berria.eus](https://berria.eus)
