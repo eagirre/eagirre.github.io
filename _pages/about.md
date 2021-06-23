@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Full Professor** at the [Computer Science Faculty](https://www.ehu.eus/eu/web/informatika-fakultatea) of the [University of the Basque Country UPV/EHU](http://www.ehu.eus). I am the **director** of the recently created [HiTZ Centre on Language Technology](http://hitz.eus), where I am part of the [Ixa Group](http://ixa.eus). I have been awarded with the **National Research Award in Informatics** in 2021. I collaborate with the [Udako Euskal Unibertsitatea](http://ueu.eus/).
+I am a **Full Professor** at the [Computer Science Faculty](https://www.ehu.eus/eu/web/informatika-fakultatea) of the [University of the Basque Country UPV/EHU](http://www.ehu.eus). I am the **director** of the recently created [HiTZ Centre on Language Technology](http://hitz.eus), where I am part of the [Ixa Group](http://ixa.eus). I have been awarded with the **National Research Prize on Informatics** in 2021. I collaborate with the [Udako Euskal Unibertsitatea](http://ueu.eus/).
 
 [My schedule](http://ixa2.si.ehu.eus/eneko/00-enekobusyfree.html) in case you need an appointment.
 
 Recent talks, award, projects
 ======
-*   Spanish National Prize on Informatics Research ([details](https://www.scie.es/otorgados-los-premios-de-investigacion-scie-fbbva-2021/)), 2021
+*   Spanish National Research Prize on Informatics ([details](https://www.scie.es/otorgados-los-premios-de-investigacion-scie-fbbva-2021/)), 2021
 *   LIHLITH project on Lifelong Learning for Dialogue selected as success story at [CHIST-ERA meeting](https://www.chistera.eu/news/chist-era-projects-seminar-2021-had-good-turnout) ([project website](http://www.ixa.eus/lihlith/)), 2021
 *   Honourable mention paper award (top 1%) at EMNLP ([details](https://2020.emnlp.org/blog/2020-11-19-best-papers)), 2020
 *   Outstanding Paper award (top 2%) at COLING ([details](https://coling2020.org/)), 2020
