@@ -23,7 +23,7 @@ Recent talks, award, projects
 *   Part of the team which won the 2020 OpenCLIR Text Track Challenge [(organised by NIST and IARPA)](https://www.iarpa.gov/index.php/working-with-iarpa/prize-challenges/1130-open-cross-language-information-retrieval-clir-challenge)
 *   [Keynote talk](https://appliedmldays.org/events/amld-epfl-2020/tracks/ai-nlp/) on "Cross-linguality and machine translation without bilingual data" ([video](https://youtu.be/RHXcqxYUFME)) at the Applied Machine Learning Days (AMLD), EPFL, Laussane, Switzerland, Jan. 2020  
 
-Recent activities
+Recent community services
 ======
 *   Associate Editor for the [JAIR](https://www.jair.org/) journal (2021-)
 *   [SemEval 2021](https://semeval.github.io/SemEval2021/) steering committee
