@@ -28,7 +28,7 @@ Recent talks, award, projects
 
 Recent activities
 ======
-*   Member of the [ELLIS Society](https://ellis.eu/), European Laboratory for Learning and Intelligent Systems
+*   Member of the [ELLIS Society](https://ellis.eu/), European Laboratory for Learning and Intelligent Systems (2020-)
 *   Associate Editor for the [JAIR](https://www.jair.org/) journal (2021-)
 *   [SemEval 2021](https://semeval.github.io/SemEval2021/) steering committee
 *   [SemEval 2020](http://alt.qcri.org/semeval2020) steering committee
