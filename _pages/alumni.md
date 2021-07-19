@@ -16,7 +16,7 @@ Current PhD students:
 *    Jan Deriu (ETH Zurich, 2018-)
 *    Andoni Azpeitia (2017-)
 
-Alumni:
+PhD Alumni:
 *    Mikel Artetxe (2020, Facebook Artificial Intelligence Research)
 *    Iñigo Lopez-Gazpio (2018, assistant professor at Deusto University)
 *    Josu Goikoetxea (2017, assistant professor at University of the Basque Country)
