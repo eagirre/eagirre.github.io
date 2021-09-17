@@ -16,6 +16,7 @@ Recent talks, award, projects
 ======
 *   Spanish National Research Prize on Informatics ([details](https://www.scie.es/otorgados-los-premios-de-investigacion-scie-fbbva-2021/)), 2021
 *   LIHLITH project on Lifelong Learning for Dialogue selected as success story at [CHIST-ERA meeting](https://www.chistera.eu/news/chist-era-projects-seminar-2021-had-good-turnout) ([project website](http://www.ixa.eus/lihlith/)), 2021
+*   Co-organizer of Deep Learning Inside Out ([DeeLIO workshop](https://sites.google.com/view/deelio-ws/) Knowledge Extraction and Integration for Deep Learning Architectures, 2021
 *   Honourable mention paper award (top 1%) at EMNLP ([details](https://2020.emnlp.org/blog/2020-11-19-best-papers)), 2020
 *   Outstanding Paper award (top 2%) at COLING ([details](https://coling2020.org/)), 2020
 *   Member of government evaluation body (ANEP area TIC), 2020
@@ -26,7 +27,7 @@ Recent talks, award, projects
 *   [Keynote talk](https://appliedmldays.org/events/amld-epfl-2020/tracks/ai-nlp/) on "Cross-linguality and machine translation without bilingual data" ([video](https://youtu.be/RHXcqxYUFME)) at the Applied Machine Learning Days (AMLD), EPFL, Laussane, Switzerland, Jan. 2020  
 
 
-Recent activities
+Professional service
 ======
 *   Member of the [ELLIS Society](https://ellis.eu/), European Laboratory for Learning and Intelligent Systems (2020-)
 *   Associate Editor for the [JAIR](https://www.jair.org/) journal (2021-)
