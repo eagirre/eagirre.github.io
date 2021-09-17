@@ -30,9 +30,10 @@ Recent activities
 ======
 *   Member of the [ELLIS Society](https://ellis.eu/), European Laboratory for Learning and Intelligent Systems (2020-)
 *   Associate Editor for the [JAIR](https://www.jair.org/) journal (2021-)
-*   [SemEval 2021](https://semeval.github.io/SemEval2021/) steering committee
-*   [SemEval 2020](http://alt.qcri.org/semeval2020) steering committee
+*   [SemEval 2021](https://semeval.github.io/SemEval2021/) and [2020](http://alt.qcri.org/semeval2020) steering committee
 *   Action Editor for [TACL](http://www.transacl.org/) (2018-2021)
+*   Co-founder of the \*SEM conference series, now in it's [10th edition](https://sites.google.com/view/starsem2021/home)
+*   Usual senior area chair, area chair and reviewer at ACL conferences, EMNLP, COLING, CoNLL, IJCAI, AAAI, Neurips and ICLR
 
 
 The book on **WSD**:
