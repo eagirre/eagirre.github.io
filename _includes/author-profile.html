@@ -29,9 +29,10 @@
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
-        <a href="http://hitz.eus"><img src="{{ "HitzLOgoa_3.png" | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="HITZ"><\a>
+        <!-- <img src="{{ "HitzLOgoa_3.png" | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="HITZ"> -->
         <img src="{{ "HitzLogoa-ehugabe.png" | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="HITZ">
-        <img src="{{ "EHULogoa-ofiziala.png" | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="HITZ"> <img src="{{ "Ixa_logoa.gif" | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="HITZ">
+        <img src="{{ "EHULogoa-ofiziala.png" | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="HITZ"> 
+        <img src="{{ "Ixa_logoa.gif" | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="HITZ" style="width:50%;horizontal-align:middle">
 
       {% endif %}
       {% if author.uri %}
