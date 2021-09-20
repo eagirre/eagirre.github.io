@@ -5,7 +5,7 @@ I think I've got things running smoothly and fixed some major bugs, but feel fre
 ### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
 
 ### Personal notes: 
-1. edit author-profile.html to add logos and further links manually: I chose to use "employer" for that
+1. edit author-profile.html to add logos and further links manually: I chose to do it at the bottom of the html document.
 
 # Instructions
 
