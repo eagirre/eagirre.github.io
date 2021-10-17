@@ -23,7 +23,7 @@ Recent talks, award, projects
 *   Keynote talk on "Deploying Conversational Question Answering systems in new domains" ([video](https://slideslive.com/38943532/deploying-conversational-question-answering-systems-in-new-domains)) at the [EXPO DAQA workshop](https://neurips.cc/ExpoConferences/2020/workshop/20242) (IBM), NeurIPS conference, Dec. 2020
 *   Won a prize in White House promoted challenge related to COVID-19 [(details)](http://www.ehu.eus/ehusfera/ixa/2020/05/07/ixa-awarded-in-the-artificial-intelligence-competition-related-to-covid-19-disease/) 2020
 *   Recipient of a 2019 [Google Faculty Research Award](https://ai.google/research/outreach/faculty-research-awards/) for research on conversational QA (this is the third time)
-*   Part of the team which won the 2020 OpenCLIR Text Track Challenge [(organised by NIST and IARPA)](https://www.iarpa.gov/index.php/working-with-iarpa/prize-challenges/1130-open-cross-language-information-retrieval-clir-challenge)
+*   Part of the team which won the 2020 OpenCLIR Text Track Challenge [(organised by NIST and IARPA)](https://twitter.com/IARPAnews/status/1192855406890094596)
 *   [Keynote talk](https://appliedmldays.org/events/amld-epfl-2020/tracks/ai-nlp/) on "Cross-linguality and machine translation without bilingual data" ([video](https://youtu.be/RHXcqxYUFME)) at the Applied Machine Learning Days (AMLD), EPFL, Laussane, Switzerland, Jan. 2020  
 
 
