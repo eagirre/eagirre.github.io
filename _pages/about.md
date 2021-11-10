@@ -15,6 +15,7 @@ I am a **Full Professor** at the [Computer Science Faculty](https://www.ehu.eus/
 Recent talks, award, projects
 ======
 *   Spanish National Research Prize on Informatics ([details](https://www.scie.es/otorgados-los-premios-de-investigacion-scie-fbbva-2021/)), 2021
+*   Co-supervisor of Mikel Artetxe, whose PhD dissertation got the 2021 EurAI, SEPLN, and National Prize on Informatics awards
 *   LIHLITH project on Lifelong Learning for Dialogue selected as success story at [CHIST-ERA meeting](https://www.chistera.eu/news/chist-era-projects-seminar-2021-had-good-turnout) ([project website](http://www.ixa.eus/lihlith/)), 2021
 *   Co-organizer of Deep Learning Inside Out ([DeeLIO workshop](https://sites.google.com/view/deelio-ws/) Knowledge Extraction and Integration for Deep Learning Architectures, 2021
 *   Honourable mention paper award (top 1%) at EMNLP ([details](https://2020.emnlp.org/blog/2020-11-19-best-papers)), 2020
@@ -23,7 +24,7 @@ Recent talks, award, projects
 *   Keynote talk on "Deploying Conversational Question Answering systems in new domains" ([video](https://slideslive.com/38943532/deploying-conversational-question-answering-systems-in-new-domains)) at the [EXPO DAQA workshop](https://neurips.cc/ExpoConferences/2020/workshop/20242) (IBM), NeurIPS conference, Dec. 2020
 *   Won a prize in White House promoted challenge related to COVID-19 [(details)](http://www.ehu.eus/ehusfera/ixa/2020/05/07/ixa-awarded-in-the-artificial-intelligence-competition-related-to-covid-19-disease/) 2020
 *   Recipient of a 2019 [Google Faculty Research Award](https://ai.google/research/outreach/faculty-research-awards/) for research on conversational QA (this is the third time)
-*   Part of the team which won the 2020 OpenCLIR Text Track Challenge [(organised by NIST and IARPA)](https://twitter.com/IARPAnews/status/1192855406890094596)
+*   Part of the team who won the 2020 OpenCLIR Text Track Challenge [(organised by NIST and IARPA)](https://twitter.com/IARPAnews/status/1192855406890094596)
 *   [Keynote talk](https://appliedmldays.org/events/amld-epfl-2020/tracks/ai-nlp/) on "Cross-linguality and machine translation without bilingual data" ([video](https://youtu.be/RHXcqxYUFME)) at the Applied Machine Learning Days (AMLD), EPFL, Laussane, Switzerland, Jan. 2020  
 
 
