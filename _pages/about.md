@@ -14,7 +14,7 @@ I am a **Full Professor** at the [Computer Science Faculty](https://www.ehu.eus/
 
 Recent talks, award, projects
 ======
-*   Spanish National Research Prize on Informatics ([details](https://www.scie.es/otorgados-los-premios-de-investigacion-scie-fbbva-2021/),[video and speech](https://www.fbbva.es/galardonados/eneko-agirre/)), 2021
+*   Spanish National Research Prize on Informatics ([details](https://www.fbbva.es/premios/premios-investigacion-sociedad-cientifica-informatica-espana-fundacion-bbva-2021/#galardonados), [video and speech](https://www.fbbva.es/galardonados/eneko-agirre/)), 2021
 *   Co-supervisor of Mikel Artetxe, whose PhD dissertation got the 2021 EurAI, SEPLN, and National Prize on Informatics awards
 *   LIHLITH project on Lifelong Learning for Dialogue selected as success story at [CHIST-ERA meeting](https://www.chistera.eu/news/chist-era-projects-seminar-2021-had-good-turnout) ([project website](http://www.ixa.eus/lihlith/)), 2021
 *   Co-organizer of Deep Learning Inside Out ([DeeLIO workshop](https://sites.google.com/view/deelio-ws/) Knowledge Extraction and Integration for Deep Learning Architectures, 2021
