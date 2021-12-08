@@ -9,7 +9,7 @@ author_profile: true
 Current PhD students:
 *    Oscar Sainz (2020-)
 *    Aitor Ormazabal (2020-)
-*    Inigo Etxeberria (2020-)
+*    Inigo Alonso (2020-)
 *    Ander Salaberria (2020-)
 *    Jon Ander Campos (2019-)
 *    Andoni Azpeitia (2017-)
