@@ -14,7 +14,7 @@ I am a **Full Professor** at the [Computer Science Faculty](https://www.ehu.eus/
 
 Recent talks, awards, projects
 ======
-*   Elected as [Fellow 2021](https://aclweb.org/aclwiki/ACL_Fellows#2021_Fellows) by the Association of Computational Linguistics for his contributions on word sense disambiguation, semantic textual similarity, unsupervised machine translation and Basque resources, entering a selective worldwide group of 74 researchers.
+*   Elected as [Fellow 2021](https://www.aclweb.org/portal/content/acl-fellows-2021) by the Association of Computational Linguistics for his contributions on word sense disambiguation, semantic textual similarity, unsupervised machine translation and Basque resources, entering a selective worldwide group of 74 researchers.
 *   Spanish National Research Prize on Informatics ([details](https://www.fbbva.es/premios/premios-investigacion-sociedad-cientifica-informatica-espana-fundacion-bbva-2021/#galardonados), [video and speech](https://www.fbbva.es/galardonados/eneko-agirre/)), 2021
 *   Co-supervisor of Mikel Artetxe, whose PhD dissertation got the 2021 EurAI, SEPLN, and National Prize on Informatics awards
 *   LIHLITH project on Lifelong Learning for Dialogue selected as success story at [CHIST-ERA meeting](https://www.chistera.eu/news/chist-era-projects-seminar-2021-had-good-turnout) ([project website](http://www.ixa.eus/lihlith/)), 2021
