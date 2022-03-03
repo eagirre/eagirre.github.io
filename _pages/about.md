@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a **Full Professor** at the [Computer Science Faculty](https://www.ehu.eus/eu/web/informatika-fakultatea) of the [University of the Basque Country UPV/EHU](http://www.ehu.eus). I am the **director** of the recently created [HiTZ Centre on Language Technology](http://hitz.eus), where I am part of the [Ixa Group](http://ixa.eus). I have been awarded with the **National Research Prize on Informatics** in 2021. 
-%% I collaborate with the [Udako Euskal Unibertsitatea](http://ueu.eus/).
+++ I collaborate with the [Udako Euskal Unibertsitatea](http://ueu.eus/).
 
 [My schedule](http://ixa2.si.ehu.eus/eneko/00-enekobusyfree.html) in case you need an appointment.
 
