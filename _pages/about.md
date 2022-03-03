@@ -8,25 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Full Professor** at the [Computer Science Faculty](https://www.ehu.eus/eu/web/informatika-fakultatea) of the [University of the Basque Country UPV/EHU](http://www.ehu.eus). I am the **director** of the recently created [HiTZ Centre on Language Technology](http://hitz.eus), where I am part of the [Ixa Research Group](http://ixa.eus). I am Fellow of the ACL, and have been awarded with the **National Research Prize on Informatics** in 2021. 
+I am a **Full Professor** at the [Computer Science Faculty](https://www.ehu.eus/eu/web/informatika-fakultatea) of the [University of the Basque Country UPV/EHU](http://www.ehu.eus). I am the **director** of the recently created [HiTZ Centre on Language Technology](http://hitz.eus), where I am part of the [Ixa Research Group](http://ixa.eus). I am [Fellow of the ACL](https://www.aclweb.org/portal/content/acl-fellows-2021), a selective worldwide group of 74 research leaders, and awardee of the [National Research Prize on Informatics](https://www.fbbva.es/premios/premios-investigacion-sociedad-cientifica-informatica-espana-fundacion-bbva-2021/#galardonados) ([video and speech](https://www.fbbva.es/galardonados/eneko-agirre/)) . 
 
 <!-- I collaborate with the [Udako Euskal Unibertsitatea](http://ueu.eus/). -->
 
 [My schedule](http://ixa2.si.ehu.eus/eneko/00-enekobusyfree.html) in case you need an appointment.
 
-Recent talks, awards, projects
+
+Recent talks, projects, courses
 ======
-*   Elected as [Fellow 2021](https://www.aclweb.org/portal/content/acl-fellows-2021) by the Association of Computational Linguistics for his contributions on word sense disambiguation, semantic textual similarity, unsupervised machine translation and Basque resources, entering a selective worldwide group of 74 researchers.
-*   Spanish National Research Prize on Informatics ([details](https://www.fbbva.es/premios/premios-investigacion-sociedad-cientifica-informatica-espana-fundacion-bbva-2021/#galardonados), [video and speech](https://www.fbbva.es/galardonados/eneko-agirre/)), 2021
-*   Co-supervisor of Mikel Artetxe, whose PhD dissertation got the 2021 EurAI, SEPLN, and National Prize on Informatics awards
+*   Keynote talks at the NLDB, SIGIR and TSD conferences in 2022
+*   Deep Learning for Natural Language Processing course at [DeepLearn April 2022](https://irdta.eu/deeplearn/2022sp/)
+*   [Deep Learning for Natural Language Processing course](http://ixa.eus/dl4nlp) (twice a year, Winter and Summer)
+*   Co-organizer of Deep Learning Inside Out ([DeeLIO](https://sites.google.com/view/deelio-ws/)) workshop at ACL 2022, a workshop on Knowledge Extraction and Integration for Deep Learning Architectures (also in 2020, 2021)
+*   Keynote talk on "Deploying Conversational Question Answering systems in new domains" ([video](https://slideslive.com/38943532/deploying-conversational-question-answering-systems-in-new-domains)) at the [EXPO DAQA workshop](https://neurips.cc/ExpoConferences/2020/workshop/20242) (IBM), NeurIPS conference, Dec. 2020
+*   [Keynote talk](https://appliedmldays.org/events/amld-epfl-2020/tracks/ai-nlp/) on "Cross-linguality and machine translation without bilingual data" ([video](https://youtu.be/RHXcqxYUFME)) at the Applied Machine Learning Days (AMLD), EPFL, Laussane, Switzerland, Jan. 2020  
+
+
+Recent awards
+======
+*   [Fellow of the ACL](https://www.aclweb.org/portal/content/acl-fellows-2021), a selective worldwide group of 74 research leaders
+*   Awardee of the [National Research Prize on Informatics](https://www.fbbva.es/premios/premios-investigacion-sociedad-cientifica-informatica-espana-fundacion-bbva-2021/#galardonados) ([video and speech](https://www.fbbva.es/galardonados/eneko-agirre/)), 2021
+*   Best European AI PhD dissertation by student Mikel Artetxe in 2021, who also won best NLP PhD in Spain (SEPLN), and is a National Youth Research Prize on Informatics awardee.
 *   LIHLITH project on Lifelong Learning for Dialogue selected as success story at [CHIST-ERA meeting](https://www.chistera.eu/news/chist-era-projects-seminar-2021-had-good-turnout) ([project website](http://www.ixa.eus/lihlith/)), 2021
-*   Co-organizer of Deep Learning Inside Out ([DeeLIO workshop](https://sites.google.com/view/deelio-ws/) Knowledge Extraction and Integration for Deep Learning Architectures, 2021
 *   Honourable mention paper award (top 1%) at EMNLP ([details](https://2020.emnlp.org/blog/2020-11-19-best-papers)), 2020
 *   Outstanding Paper award (top 2%) at COLING ([details](https://coling2020.org/)), 2020
-*   Member of government evaluation body (ANEP area TIC), 2020
 *   Keynote talk on "Deploying Conversational Question Answering systems in new domains" ([video](https://slideslive.com/38943532/deploying-conversational-question-answering-systems-in-new-domains)) at the [EXPO DAQA workshop](https://neurips.cc/ExpoConferences/2020/workshop/20242) (IBM), NeurIPS conference, Dec. 2020
 *   Won a prize in White House promoted challenge related to COVID-19 [(details)](http://www.ehu.eus/ehusfera/ixa/2020/05/07/ixa-awarded-in-the-artificial-intelligence-competition-related-to-covid-19-disease/) 2020
-*   Recipient of a 2019 [Google Faculty Research Award](https://ai.google/research/outreach/faculty-research-awards/) for research on conversational QA (this is the third time)
+*   Recipient of a 2019 [Google Faculty Research Award](https://ai.google/research/outreach/faculty-research-awards/) for research on conversational QA (also in 2017 and 2018)
 *   Part of the team who won the 2020 OpenCLIR Text Track Challenge [(organised by NIST and IARPA)](https://twitter.com/IARPAnews/status/1192855406890094596)
 *   [Keynote talk](https://appliedmldays.org/events/amld-epfl-2020/tracks/ai-nlp/) on "Cross-linguality and machine translation without bilingual data" ([video](https://youtu.be/RHXcqxYUFME)) at the Applied Machine Learning Days (AMLD), EPFL, Laussane, Switzerland, Jan. 2020  
 
@@ -37,6 +46,7 @@ Professional service
 *   Associate Editor for the [JAIR](https://www.jair.org/) journal (2021-)
 *   [SemEval 2021](https://semeval.github.io/SemEval2021/) and [2020](http://alt.qcri.org/semeval2020) steering committee
 *   Action Editor for [TACL](http://www.transacl.org/) (2018-2021)
+*   Member of government evaluation body (ANEP area TIC), 2020
 *   Co-founder of the \*SEM conference series, now in it's [10th edition](https://sites.google.com/view/starsem2021/home)
 *   Usual senior area chair, area chair and reviewer at ACL conferences, EMNLP, COLING, CoNLL, IJCAI, AAAI, Neurips and ICLR
 
