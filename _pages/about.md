@@ -17,7 +17,7 @@ I am a **Full Professor** at the [Computer Science Faculty](https://www.ehu.eus/
 
 Recent talks, projects, courses
 ======
-*   Keynote talks at the [NLDB](https://nldb2022.prhlt.upv.es/#speakers-section), [SIGIR](https://sigir.org/sigir2022/) and [TSD](https://www.tsdconference.org/tsd2022/) conferences in 2022
+*   Keynote talks at the [NLDB](https://nldb2022.prhlt.upv.es/#speakers-section), [SIGIR](https://sigir.org/sigir2022/program/keynotes/) and [TSD](https://www.tsdconference.org/tsd2022/) conferences in 2022
 *   Deep Learning for Natural Language Processing course at [DeepLearn April 2022](https://irdta.eu/deeplearn/2022sp/)
 *   [Deep Learning for Natural Language Processing course](http://ixa.eus/dl4nlp) (twice a year, Winter and Summer)
 *   Co-organizer of Deep Learning Inside Out ([DeeLIO](https://sites.google.com/view/deelio-ws/)) workshop at ACL 2022, a workshop on Knowledge Extraction and Integration for Deep Learning Architectures (also in 2020, 2021)
