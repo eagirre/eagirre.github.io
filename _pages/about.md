@@ -20,7 +20,7 @@ Recent talks, projects, courses
 *   Keynote talks on "Few-shot Information Extraction is Here: Pre-train, Prompt and Entail" at several venues througout 2022:
     *  In chronological order: [NLDB](https://nldb2022.prhlt.upv.es/#speakers-section), [SIGIR](https://sigir.org/sigir2022/program/keynotes/) and [TSD](https://www.tsdconference.org/tsd2022/) 
     *  [Slides](http://hitz.eus/eneko/tmp/sigir2022keynote.pdf) and [video](https://youtu.be/XfsZxyds_xE) (at TSD, the SIGIR videos has not been released)
-    *  [papers and code](https://github.com/osainz59/Ask2Transformers)) 
+    *  [Papers and code](https://github.com/osainz59/Ask2Transformers) 
     *  A shorter version at the [IWSKR workshop](https://iwskr.github.io/) of the [AKBC](https://www.akbc.ws/2022/) conference
 *   Deep Learning for Natural Language Processing course at [DeepLearn April 2022](https://irdta.eu/deeplearn/2022sp/)
 *   [Deep Learning for Natural Language Processing course](http://ixa.eus/dl4nlp) (twice a year, Winter and Summer)
