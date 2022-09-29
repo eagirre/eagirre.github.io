@@ -17,7 +17,7 @@ I am a **Full Professor** at the [Computer Science Faculty](https://www.ehu.eus/
 
 Recent talks, projects, courses
 ======
-*   Keynote talks on "Few-shot Information Extraction is Here: Pre-train, Prompt and Entail" at several venues througout 2022:
+*   Keynote talks on "Few-shot Information Extraction is Here: Pre-train, Prompt and Entail" at several venues in 2022:
     *  In chronological order: [NLDB](https://nldb2022.prhlt.upv.es/#speakers-section), [SIGIR](https://sigir.org/sigir2022/program/keynotes/) and [TSD](https://www.tsdconference.org/tsd2022/) 
     *  [Slides](http://hitz.eus/eneko/tmp/sigir2022keynote.pdf) and [video](https://youtu.be/XfsZxyds_xE) (at TSD, the SIGIR videos has not been released)
     *  [Papers and code](https://github.com/osainz59/Ask2Transformers) 
