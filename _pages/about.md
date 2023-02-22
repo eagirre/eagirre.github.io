@@ -19,7 +19,7 @@ Recent talks, projects, courses
 ======
 *   Keynote talks on "Few-shot Information Extraction is Here: Pre-train, Prompt and Entail" at several venues in 2022:
     *  In chronological order: [NLDB](https://nldb2022.prhlt.upv.es/#speakers-section), [SIGIR](https://sigir.org/sigir2022/program/keynotes/),  [TSD](https://www.tsdconference.org/tsd2022/), [IWSKR workshop](https://iwskr.github.io/) of the [AKBC](https://www.akbc.ws/2022/) and [Northeastern University](https://ai.northeastern.edu/eai-seminar-series/)
-    *  Most Recent: [Slides](https://hitz.eus/eneko/tmp/FewShotIE.northeastern.pdf) and [video](soon) at Northeastern University (those at SIGIR [Slides](https://hitz.eus/eneko/tmp/sigir2022keynote.pdf) and [video](https://player.vimeo.com/video/747940621?h=43626a6276)) <!-- https://youtu.be/XfsZxyds_xE at TSD -->
+    *  Most Recent [Slides](https://hitz.eus/eneko/tmp/FewShotIE.northeastern.pdf) and [video](soon) (those at SIGIR: [slides](https://hitz.eus/eneko/tmp/sigir2022keynote.pdf) and [video](https://player.vimeo.com/video/747940621?h=43626a6276)) <!-- https://youtu.be/XfsZxyds_xE at TSD -->
     *  [Papers and code](https://github.com/osainz59/Ask2Transformers) 
     <!-- *  A shorter version at the [IWSKR workshop](https://iwskr.github.io/) of the [AKBC](https://www.akbc.ws/2022/) conference -->
 *   Deep Learning for Natural Language Processing course at [DeepLearn April 2022](https://irdta.eu/deeplearn/2022sp/)
