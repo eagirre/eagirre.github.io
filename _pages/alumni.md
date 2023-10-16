@@ -11,9 +11,9 @@ Current PhD students:
 *    Aitor Ormazabal (2020-)
 *    Inigo Alonso (2020-)
 *    Ander Salaberria (2020-)
-*    Jon Ander Campos (2019-)
 
 PhD Alumni:
+*    Jon Ander Campos (2023, researcher at Cohere)
 *    Andoni Azpeitia (2022, engineer at Vicomtech)
 *    Jan Deriu, defended at University of Zurich (2021, ZHAW Zurich University of Applied Sciences) 
 *    Mikel Artetxe (2020, Facebook Artificial Intelligence Research)
@@ -27,7 +27,7 @@ PhD Alumni:
 *    Aitziber Atutxa (2014, Associate Professor at the University of the Basque Country)
 *    Arantxa Otegi (2012, senior researcher at University of the Basque Country)
 *    Beñat Zapirain (2011, at Department of Education, Basque Government)
-*    Oier Lopez de Lacalle (2009, Adjunct Professor at University of the Basque Country)
+*    Oier Lopez de Lacalle (2009, Associate Professor at University of the Basque Country)
 *    Elisabete Pociello (2008, senior researcher at Elhuyar Foundation)
 *    Mikel Lersundi (2006, Associate Professor at the University of the Basque Country)
 *    David Martinez (2004, senior researcher at IBM Watson)
