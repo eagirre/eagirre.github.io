@@ -7,6 +7,9 @@ author_profile: true
 
 
 Current PhD students:
+*    Ahmed Salem Elhady (2024-)
+*    Ekain Arrieta (2023-)
+*    Imanol Miranda (2023-)
 *    Oscar Sainz (2020-)
 *    Aitor Ormazabal (2020-)
 *    Inigo Alonso (2020-)
