@@ -8,6 +8,7 @@ author_profile: true
 
 Visiting students and professors:
 
+*    2023 Pranaydeep Singh (from University of Gent)
 *    2022 Oralie Cattan (from LIMSI adn Qwant in Paris)
 *    2020 Ahmed Sabir (from Universitat Politecnica de Catalunya in Barcelona)
 *    2020 Jiawei Zhao (from Massey University in Auckland)
