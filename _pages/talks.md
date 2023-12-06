@@ -23,8 +23,6 @@ Recent talks, projects, courses
 *   Deep Learning for Natural Language Processing course at [DeepLearn April 2022](https://irdta.eu/deeplearn/2022sp/)
 *   [Deep Learning for Natural Language Processing course](http://ixa.eus/dl4nlp) (twice a year, Winter and Summer)
 *   Co-organizer of Deep Learning Inside Out ([DeeLIO](https://sites.google.com/view/deelio-ws/)) workshop at ACL 2022, a workshop on Knowledge Extraction and Integration for Deep Learning Architectures (also in 2020, 2021)
-*   Deep Learning for Natural Language Processing course at [DeepLearn April 2022](https://irdta.eu/deeplearn/2022sp/)
-*   [Deep Learning for Natural Language Processing course](http://ixa.eus/dl4nlp) (twice a year, Winter and Summer)
 *   Co-organizer of Deep Learning Inside Out ([DeeLIO](https://sites.google.com/view/deelio-ws/)) workshop at ACL 2022, a workshop on Knowledge Extraction and Integration for Deep Learning Architectures (also in 2020, 2021)
 
 
