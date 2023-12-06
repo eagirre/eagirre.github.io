@@ -17,6 +17,9 @@ I am a **Full Professor** at the [Computer Science Faculty](https://www.ehu.eus/
 
 Recent talks, projects, courses
 ======
+*   Participation in EMNLP Workshop [Panel](https://pan-dl.github.io/2023/panel) (Singapore): "Pattern-based Approaches to NLP in the Age of Deep Learning"
+*   Invited talks for non-technical public (in Basque) about Large Language Models and Low-resource Languages in the course opening of Udako Euskal Unibertsitea ([Video](https://www.youtube.com/watch?v=_hGuU9Klbzc&t=128s)) and in the Zientzia eta Teknologia Fakultatean: "Mundua suntsitzean adimen artifizialak euskaraz egingo ote du?"
+       <!-- ZTF https://www.youtube.com/watch?v=aHWMfwsdEWo&list=PLdrskDVo8ogH0vZUUwcoDmh7XqMek-DUe&index=2-->
 *   Keynote talks on "Few-shot Information Extraction is Here: Pre-train, Prompt and Entail" at several venues in 2022:
     *  In chronological order: [NLDB](https://nldb2022.prhlt.upv.es/#speakers-section), [SIGIR](https://sigir.org/sigir2022/program/keynotes/),  [TSD](https://www.tsdconference.org/tsd2022/), [IWSKR workshop](https://iwskr.github.io/) of the [AKBC](https://www.akbc.ws/2022/) and [Northeastern University](https://ai.northeastern.edu/eai-seminar-series/)
     *  Most Recent [Slides](https://hitz.eus/eneko/tmp/FewShotIE.northeastern.pdf) and [video](https://www.youtube.com/watch?v=ADWyiyUPgnw) (those at SIGIR: [slides](https://hitz.eus/eneko/tmp/sigir2022keynote.pdf) and [video](https://player.vimeo.com/video/747940621?h=43626a6276)) <!-- https://youtu.be/XfsZxyds_xE at TSD -->
