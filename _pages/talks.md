@@ -12,12 +12,21 @@ author_profile: true
 
 Recent talks, projects, courses
 ======
-*   Keynote talks at the NLDB, SIGIR and TSD conferences in 2022
+*   Participation in EMNLP Workshop [Panel](https://pan-dl.github.io/2023/panel) (Singapore): "Pattern-based Approaches to NLP in the Age of Deep Learning"
+*   Invited talks for non-technical public (in Basque) about Large Language Models and Low-resource Languages in the course opening of Udako Euskal Unibertsitea ([Video](https://www.youtube.com/watch?v=_hGuU9Klbzc&t=128s)) and in the Zientzia eta Teknologia Fakultatean: "Mundua suntsitzean adimen artifizialak euskaraz egingo ote du?"
+       <!-- ZTF https://www.youtube.com/watch?v=aHWMfwsdEWo&list=PLdrskDVo8ogH0vZUUwcoDmh7XqMek-DUe&index=2-->
+*   Keynote talks on "Few-shot Information Extraction is Here: Pre-train, Prompt and Entail" at several venues in 2022:
+    *  In chronological order: [NLDB](https://nldb2022.prhlt.upv.es/#speakers-section), [SIGIR](https://sigir.org/sigir2022/program/keynotes/),  [TSD](https://www.tsdconference.org/tsd2022/), [IWSKR workshop](https://iwskr.github.io/) of the [AKBC](https://www.akbc.ws/2022/) and [Northeastern University](https://ai.northeastern.edu/eai-seminar-series/)
+    *  Most Recent [Slides](https://hitz.eus/eneko/tmp/FewShotIE.northeastern.pdf) and [video](https://www.youtube.com/watch?v=ADWyiyUPgnw) (those at SIGIR: [slides](https://hitz.eus/eneko/tmp/sigir2022keynote.pdf) and [video](https://player.vimeo.com/video/747940621?h=43626a6276)) <!-- https://youtu.be/XfsZxyds_xE at TSD -->
+    *  [Papers and code](https://github.com/osainz59/Ask2Transformers) 
+    <!-- *  A shorter version at the [IWSKR workshop](https://iwskr.github.io/) of the [AKBC](https://www.akbc.ws/2022/) conference -->
 *   Deep Learning for Natural Language Processing course at [DeepLearn April 2022](https://irdta.eu/deeplearn/2022sp/)
 *   [Deep Learning for Natural Language Processing course](http://ixa.eus/dl4nlp) (twice a year, Winter and Summer)
 *   Co-organizer of Deep Learning Inside Out ([DeeLIO](https://sites.google.com/view/deelio-ws/)) workshop at ACL 2022, a workshop on Knowledge Extraction and Integration for Deep Learning Architectures (also in 2020, 2021)
-*   Keynote talk on "Deploying Conversational Question Answering systems in new domains" ([video](https://slideslive.com/38943532/deploying-conversational-question-answering-systems-in-new-domains)) at the [EXPO DAQA workshop](https://neurips.cc/ExpoConferences/2020/workshop/20242) (IBM), NeurIPS conference, Dec. 2020
-*   [Keynote talk](https://appliedmldays.org/events/amld-epfl-2020/tracks/ai-nlp/) on "Cross-linguality and machine translation without bilingual data" ([video](https://youtu.be/RHXcqxYUFME)) at the Applied Machine Learning Days (AMLD), EPFL, Laussane, Switzerland, Jan. 2020  
+*   Deep Learning for Natural Language Processing course at [DeepLearn April 2022](https://irdta.eu/deeplearn/2022sp/)
+*   [Deep Learning for Natural Language Processing course](http://ixa.eus/dl4nlp) (twice a year, Winter and Summer)
+*   Co-organizer of Deep Learning Inside Out ([DeeLIO](https://sites.google.com/view/deelio-ws/)) workshop at ACL 2022, a workshop on Knowledge Extraction and Integration for Deep Learning Architectures (also in 2020, 2021)
+
 
 Recent awards
 ======
@@ -49,6 +58,8 @@ Older activities
 *   Co-organizer of [Semantic Textual Similarity](http://ixa2.si.ehu.eus/stswiki) task on [SemEval 2017](http://alt.qcri.org/semeval2017/) [task 1](http://alt.qcri.org/semeval2017/task1/).  
 *   Standing reviewer for [TACL](http://www.transacl.org/) (2014-2018)
 <!-- talks and awards 2019 or older -->
+*   Keynote talk on "Deploying Conversational Question Answering systems in new domains" ([video](https://slideslive.com/38943532/deploying-conversational-question-answering-systems-in-new-domains)) at the [EXPO DAQA workshop](https://neurips.cc/ExpoConferences/2020/workshop/20242) (IBM), NeurIPS conference, Dec. 2020
+*   [Keynote talk](https://appliedmldays.org/events/amld-epfl-2020/tracks/ai-nlp/) on "Cross-linguality and machine translation without bilingual data" ([video](https://youtu.be/RHXcqxYUFME)) at the Applied Machine Learning Days (AMLD), EPFL, Laussane, Switzerland, Jan. 2020
 *   [Nomination for the best paper award](http://www.acl2019.org/EN/nominations-for-acl-2019-best-paper-awards.xhtml) at the Conference of the Association for Computational Linguistics, July, 2019.  
 *   Keynote talk at the [Conference in Computational Collective Intelligence](http://iccci.sigappfr.org/keynote-speakers/), Hendaye, Basque Country, September, 2019  
 *   Keynote talk at the [conference of the Spanish NLP society (SEPLN)](http://hitz.eus/sepln2019/?q=node/3), Bilbao, Basque Country, September, 2019  
