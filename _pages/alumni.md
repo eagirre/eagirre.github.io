@@ -11,16 +11,17 @@ Current PhD students:
 *    Ekain Arrieta (2023-)
 *    Imanol Miranda (2023-)
 *    Oscar Sainz (2020-)
-*    Aitor Ormazabal (2020-)
 *    Inigo Alonso (2020-)
 *    Ander Salaberria (2020-)
 
 PhD Alumni:
+
+*    Aitor Ormazabal (2024, researcher at Reka)
 *    Jon Ander Campos (2023, researcher at Cohere)
 *    Andoni Azpeitia (2022, engineer at Vicomtech)
-*    Jan Deriu, defended at University of Zurich (2021, ZHAW Zurich University of Applied Sciences) 
-*    Mikel Artetxe (2020, Facebook Artificial Intelligence Research)
-*    Iñigo Lopez-Gazpio (2018, assistant professor at Deusto University)
+*    Jan Deriu, defended at University of Zurich (2021, researcher at ZHAW Zurich University of Applied Sciences) 
+*    Mikel Artetxe (2020, Reka Co-founder)
+*    Iñigo Lopez-Gazpio (2018, assistant professor at University of the Basque Country)
 *    Josu Goikoetxea (2017, assistant professor at University of the Basque Country)
 *    Ander  Barrena (2017, assistant professor at University of the Basque Country)
 *    Aitor Gonzalez-Agirre (2017, senior researcher at Barcelona Supercomputing Center)
