@@ -17,11 +17,13 @@ I am a **Full Professor** at the [Computer Science Faculty](https://www.ehu.eus/
 
 Recent talks, projects, courses
 ======
-*   Invited crash course at University of Surrey, Oct. 2023
-<!-- *   Co-organizer of contamination workshop -->
+*   Co-organizer of [data-contamination workshop](https://conda-workshop.github.io/) @ ACL 2024
+*   Invited talk on [C-SEPLN webinar series](http://www.sepln.org/actualidad/eventos/cuantas-lenguas-hablara-la-ia-cuando-acabe-con-la-humanidad) "How many languages will the AI talk when it destroys humanity?" (in Spanish)
+    * Previous versions on [Sistedes webinar series](https://biblioteca.sistedes.es/entities/seminario/48a3588f-76df-461d-bbd3-6dc718e509d1) (in Spanish), and on a more divulgative note (in Basque) on [UEU 2023 course opening](https://www.youtube.com/watch?v=_hGuU9Klbzc&t=128s), Science Faculty and [Zientziaren Giltzak Elkartea](https://zientziarengiltzak.org/)    
 *   Panelist in EMNLP 2023 Workshop [Panel](https://pan-dl.github.io/2023/panel) (Singapore): "Pattern-based Approaches to NLP in the Age of Deep Learning"
 *   Invited talks for non-technical public (in Basque) about Large Language Models and Low-resource Languages in the 2023 course opening of Udako Euskal Unibertsitea ([Video](https://www.youtube.com/watch?v=_hGuU9Klbzc&t=128s)) and in the Zientzia eta Teknologia Fakultatean: "Mundua suntsitzean adimen artifizialak euskaraz egingo ote du?"
        <!-- ZTF https://www.youtube.com/watch?v=aHWMfwsdEWo&list=PLdrskDVo8ogH0vZUUwcoDmh7XqMek-DUe&index=2-->
+*   Invited crash course on NLP at University of Surrey, Oct. 2023
 *   Deep Learning for Natural Language Processing course at [DeepLearn July 2023](https://irdta.eu/deeplearn/2023su/) and [DeepLearn April 2022](https://irdta.eu/deeplearn/2022sp/)
 *   [Deep Learning for Natural Language Processing course](http://ixa.eus/dl4nlp) (twice a year, Winter and Summer)
 *   Keynote talks on "Few-shot Information Extraction is Here: Pre-train, Prompt and Entail" at several venues in 2022:
