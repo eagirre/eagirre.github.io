@@ -12,7 +12,7 @@ I am a **Full Professor** at the [Computer Science Faculty](https://www.ehu.eus/
 
 <!-- I collaborate with the [Udako Euskal Unibertsitatea](http://ueu.eus/). -->
 
-[My schedule](http://ixa2.si.ehu.eus/eneko/00-enekobusyfree.html) in case you need an appointment.
+[My schedule](http://hitz.eus/eneko/00-enekobusyfree.html) in case you need an appointment.
 
 
 Recent talks, projects, courses
@@ -37,7 +37,7 @@ Recent talks, projects, courses
 Recent awards
 ======
 *   [Best resource paper award](https://aclanthology.org/2024.acl-long.799/) @ ACL 2024
-*   [Fellow of the ACL](https://www.aclweb.org/portal/content/acl-fellows-2021), a selective worldwide group of 74 research leaders
+*   [Fellow of the ACL](https://www.aclweb.org/portal/content/acl-fellows-2021), a selective worldwide group of 74 research leaders, 2021
 *   Awardee of the [National Research Prize on Informatics](https://www.fbbva.es/premios/premios-investigacion-sociedad-cientifica-informatica-espana-fundacion-bbva-2021/#galardonados) ([video and speech](https://www.fbbva.es/galardonados/eneko-agirre/)), 2021
 *   Best European AI PhD dissertation (awarded by EurAI) to PhD student Mikel Artetxe in 2021, who also won best NLP PhD in Spain (SEPLN), and is a National Youth Research Prize on Informatics awardee.
 *   LIHLITH project on Lifelong Learning for Dialogue selected as success story at [CHIST-ERA meeting](https://www.chistera.eu/news/chist-era-projects-seminar-2021-had-good-turnout) ([project website](http://www.ixa.eus/lihlith/)), 2021
