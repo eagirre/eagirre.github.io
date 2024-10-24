@@ -17,6 +17,7 @@ I am a **Full Professor** at the [Computer Science Faculty](https://www.ehu.eus/
 
 Recent talks, projects, courses
 ======
+*   Seminar talks on "LLMs and low-resource languages" at University of Edinburgh ([ILLC institute](https://web.inf.ed.ac.uk/ilcc/news-events/seminars-2024)) and University of Aberdeen, 2024 
 *   Co-organizer of [data-contamination workshop](https://conda-workshop.github.io/) @ ACL 2024
 *   Invited talk on [C-SEPLN webinar series](http://www.sepln.org/actualidad/eventos/cuantas-lenguas-hablara-la-ia-cuando-acabe-con-la-humanidad) "How many languages will the AI talk when it destroys humanity?" (in Spanish)
     * Previous versions on [Sistedes webinar 2024 series](https://biblioteca.sistedes.es/entities/seminario/48a3588f-76df-461d-bbd3-6dc718e509d1) (in Spanish), and on a more divulgative note (in Basque) on [UEU 2023 course opening](https://www.youtube.com/watch?v=_hGuU9Klbzc&t=128s), Science Faculty and [Zientziaren Giltzak Elkartea](https://zientziarengiltzak.org/)        <!-- ZTF https://www.youtube.com/watch?v=aHWMfwsdEWo&list=PLdrskDVo8ogH0vZUUwcoDmh7XqMek-DUe&index=2-->
@@ -35,9 +36,10 @@ Recent talks, projects, courses
 
 Recent awards
 ======
+*   [Best resource paper award](https://aclanthology.org/2024.acl-long.799/) @ ACL 2024
 *   [Fellow of the ACL](https://www.aclweb.org/portal/content/acl-fellows-2021), a selective worldwide group of 74 research leaders
 *   Awardee of the [National Research Prize on Informatics](https://www.fbbva.es/premios/premios-investigacion-sociedad-cientifica-informatica-espana-fundacion-bbva-2021/#galardonados) ([video and speech](https://www.fbbva.es/galardonados/eneko-agirre/)), 2021
-*   Best European AI PhD dissertation by student Mikel Artetxe in 2021, who also won best NLP PhD in Spain (SEPLN), and is a National Youth Research Prize on Informatics awardee.
+*   Best European AI PhD dissertation (awarded by EurAI) to PhD student Mikel Artetxe in 2021, who also won best NLP PhD in Spain (SEPLN), and is a National Youth Research Prize on Informatics awardee.
 *   LIHLITH project on Lifelong Learning for Dialogue selected as success story at [CHIST-ERA meeting](https://www.chistera.eu/news/chist-era-projects-seminar-2021-had-good-turnout) ([project website](http://www.ixa.eus/lihlith/)), 2021
 *   Honourable mention paper award (top 1%) at EMNLP ([details](https://2020.emnlp.org/blog/2020-11-19-best-papers)), 2020
 *   Outstanding Paper award (top 2%) at COLING ([details](https://coling2020.org/)), 2020
