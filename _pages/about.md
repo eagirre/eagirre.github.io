@@ -54,7 +54,7 @@ Professional service
 *   Member of the ACL [Test-of-Time Paper](https://www.aclweb.org/portal/content/announcement-2024-acl-test-time-paper-award-0) Award commitee (2024) 
 *   Area committee member for [CORE Conference Rankings](https://www.core.edu.au/conference-portal) (2023)
 *   Member of the [ELLIS Society](https://ellis.eu/), European Laboratory for Learning and Intelligent Systems (2020-)
-*   Associate Editor for the [JAIR](https://www.jair.org/) journal (2021-)
+*   Associate Editor for the [JAIR](https://www.jair.org/) journal (2021-2024)
 *   [SemEval 2021](https://semeval.github.io/SemEval2021/) and [2020](http://alt.qcri.org/semeval2020) steering committee
 *   Action Editor for [TACL](http://www.transacl.org/) (2018-2021)
 *   Member of government evaluation body (ANEP area TIC), 2020
