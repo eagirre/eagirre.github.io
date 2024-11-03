@@ -43,7 +43,7 @@ Recent awards
 *   LIHLITH project on Lifelong Learning for Dialogue selected as success story at [CHIST-ERA meeting](https://www.chistera.eu/news/chist-era-projects-seminar-2021-had-good-turnout) ([project website](http://www.ixa.eus/lihlith/)), 2021
 *   Honourable mention paper award (top 1%) at EMNLP ([details](https://2020.emnlp.org/blog/2020-11-19-best-papers)), 2020
 *   Outstanding Paper award (top 2%) at COLING ([details](https://coling2020.org/)), 2020
-*   Won a prize in White House promoted challenge related to COVID-19 [(details)](http://www.ehu.eus/ehusfera/ixa/2020/05/07/ixa-awarded-in-the-artificial-intelligence-competition-related-to-covid-19-disease/) 2020
+*   Won a prize in White House promoted challenge related to COVID-19 [(details)](https://www.ehu.eus/es/-/el-grupo-de-investigacion-ixa-aplica-la-inteligencia-artificial-contra-el-covid-19) 2020
 *   Recipient of a 2019 [Google Faculty Research Award](https://ai.google/research/outreach/faculty-research-awards/) for research on conversational QA (also in 2017 and 2018)
 *   Part of the team who won the 2020 OpenCLIR Text Track Challenge [(organised by NIST and IARPA)](https://twitter.com/IARPAnews/status/1192855406890094596)
 
