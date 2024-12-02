@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Full Professor** at the [Computer Science Faculty](https://www.ehu.eus/eu/web/informatika-fakultatea) of the [University of the Basque Country UPV/EHU](http://www.ehu.eus). I am the **director** of the recently created [HiTZ Centre on Language Technology](http://hitz.eus), where I am part of the [Ixa Research Group](http://ixa.eus). I am [Fellow of the ACL](https://www.aclweb.org/portal/content/acl-fellows-2021), a selective worldwide group of 74 research leaders, and awardee of the [National Research Prize on Informatics](https://www.fbbva.es/premios/premios-investigacion-sociedad-cientifica-informatica-espana-fundacion-bbva-2021/#galardonados) ([video and speech](https://www.fbbva.es/galardonados/eneko-agirre/)). One of my students won the [EurAI Artificial Intelligence PhD Dissertation Award](https://www.eurai.org/award/mikel-artexte).   
+I am a **Full Professor** at the [Computer Science Faculty](https://www.ehu.eus/eu/web/informatika-fakultatea) of the [University of the Basque Country UPV/EHU](http://www.ehu.eus). I am the **director** of the recently created [HiTZ Centre on Language Technology](http://hitz.eus), where I am part of the [Ixa Research Group](http://ixa.eus). I am [Fellow of the ACL](https://www.aclweb.org/portal/content/acl-fellows-2021), a selective worldwide group of 74 research leaders, and awardee of the [National Research Prize on Informatics](https://www.fbbva.es/premios/premios-investigacion-sociedad-cientifica-informatica-espana-fundacion-bbva-2021/#galardonados) ([video and speech](https://www.fbbva.es/galardonados/eneko-agirre/)). I am elected full member of [Jakiunde](https://www.jakiunde.eus/en/), Academy of Sciences, Arts and Humanities of the Basque Country. One of my students won the [EurAI Artificial Intelligence PhD Dissertation Award](https://www.eurai.org/award/mikel-artexte).   
 
 <!-- I collaborate with the [Udako Euskal Unibertsitatea](http://ueu.eus/). -->
 
@@ -17,7 +17,7 @@ I am a **Full Professor** at the [Computer Science Faculty](https://www.ehu.eus/
 
 Recent talks, projects, courses
 ======
-*   Seminar talks on "LLMs and low-resource languages" at University of Edinburgh ([ILLC institute](https://web.inf.ed.ac.uk/ilcc/news-events/seminars-2024)) and University of Aberdeen, 2024 
+*   Seminar talks on "LLMs and low-resource languages" at University of Edinburgh ([ILLC institute](https://web.inf.ed.ac.uk/ilcc/news-events/seminars-2024)), University of Cambridge ([LTL lab](https://ltl.mmll.cam.ac.uk/)) and University of Aberdeen ([HCAI Network](https://www.abdn.ac.uk/research/explore/data-ai-572.php)), 2024 
 *   Co-organizer of [data-contamination workshop](https://conda-workshop.github.io/) @ ACL 2024
 *   Invited talk on [C-SEPLN webinar series](http://www.sepln.org/actualidad/eventos/cuantas-lenguas-hablara-la-ia-cuando-acabe-con-la-humanidad) "How many languages will the AI talk when it destroys humanity?" (in Spanish)
     * Previous versions on [Sistedes webinar 2024 series](https://biblioteca.sistedes.es/entities/seminario/48a3588f-76df-461d-bbd3-6dc718e509d1) (in Spanish), and on a more divulgative note (in Basque) on [UEU 2023 course opening](https://www.youtube.com/watch?v=_hGuU9Klbzc&t=128s), Science Faculty and [Zientziaren Giltzak Elkartea](https://zientziarengiltzak.org/)        <!-- ZTF https://www.youtube.com/watch?v=aHWMfwsdEWo&list=PLdrskDVo8ogH0vZUUwcoDmh7XqMek-DUe&index=2-->
@@ -36,6 +36,7 @@ Recent talks, projects, courses
 
 Recent awards
 ======
+*   I am deeply honored to have been elected full member of [Jakiunde](https://www.jakiunde.eus/en/), Academy of Sciences, Arts and Humanities of the Basque Country
 *   [Best resource paper award](https://aclanthology.org/2024.acl-long.799/) @ ACL 2024
 *   [Fellow of the ACL](https://www.aclweb.org/portal/content/acl-fellows-2021), a selective worldwide group of 74 research leaders, 2021
 *   Awardee of the [National Research Prize on Informatics](https://www.fbbva.es/premios/premios-investigacion-sociedad-cientifica-informatica-espana-fundacion-bbva-2021/#galardonados) ([video and speech](https://www.fbbva.es/galardonados/eneko-agirre/)), 2021
