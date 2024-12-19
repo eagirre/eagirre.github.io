@@ -52,6 +52,7 @@ Recent awards
 
 Professional service
 ======
+*   Member of the Coling Best Paper Award commitee (2025)
 *   Member of the ACL [Test-of-Time Paper](https://www.aclweb.org/portal/content/announcement-2024-acl-test-time-paper-award-0) Award commitee (2024) 
 *   Area committee member for [CORE Conference Rankings](https://www.core.edu.au/conference-portal) (2023)
 *   Member of the [ELLIS Society](https://ellis.eu/), European Laboratory for Learning and Intelligent Systems (2020-)
