@@ -12,7 +12,7 @@ I am a **Full Professor** at the [Computer Science Faculty](https://www.ehu.eus/
 
 <!-- I collaborate with the [Udako Euskal Unibertsitatea](http://ueu.eus/). -->
 
-[My schedule](http://hitz.eus/eneko/00-enekobusyfree.html) in case you need an appointment.
+[My schedule](https://hitz.eus/eneko/schedule) in case you need an appointment.
 
 
 Recent talks, projects, courses
