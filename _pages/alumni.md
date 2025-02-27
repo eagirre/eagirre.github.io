@@ -7,14 +7,16 @@ author_profile: true
 
 
 Current PhD students:
+*    Mikel Zubillaga (2024- )
 *    Ahmed Salem Elhady (2024-)
+*    Pius Peter Hugo von Däniken (2024- at University of Zurich)
 *    Ekain Arrieta (2023-)
 *    Imanol Miranda (2023-)
-*    Inigo Alonso (2020-)
 
 
 PhD Alumni:
 
+*    Inigo Alonso (2025, post-doc researcher at University of Edinburgh)
 *    Ander Salaberria (2024, post-doc researcher at University of the Basque Country)
 *    Oscar Sainz (2024, post-doc researcher at University of the Basque Country)
 *    Aitor Ormazabal (2024, researcher at Reka)
