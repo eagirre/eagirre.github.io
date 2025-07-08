@@ -17,6 +17,7 @@ I am a **Full Professor** at the [Computer Science Faculty](https://www.ehu.eus/
 
 Recent talks, projects, courses
 ======
+* Invited talks on "LLMs and low-resource languages" at Pint of Science, APPLAI, Swisstext, EVIA, RANLP 2025
 *  Invited talks on "LLMs and low-resource languages" at [ILLC institute](https://web.inf.ed.ac.uk/ilcc/news-events/seminars-2024) [announcement](https://informatics.ed.ac.uk/ilcc/news-events/previous-seminars/friday-4th-october-1200-eneko-agirre-seminar) (University of Edinburgh), [LTL lab](https://ltl.mmll.cam.ac.uk/) [announcement](https://talks.cam.ac.uk/talk/index/224134) (University of Cambridge), [HCAI Network](https://www.abdn.ac.uk/research/explore/data-ai-572.php) (University of Aberdeen), [NPLD-Coppieters Campus](https://npld.eu/npld-coppieters-campus-2024/) (Barcelona), [Tecnalia](https://www.tecnalia.com/) (Zamudio) and [Lehendakaritza](https://www.irekia.euskadi.eus/es/news/97881-lehendakaritzak-euskararen-egunaren-urteurrena-ospatu) (Basque Government, Gasteiz) 2024
 *   Co-organizer of [data-contamination workshop](https://conda-workshop.github.io/) @ ACL 2024
 *   Invited talk on [C-SEPLN webinar series](http://www.sepln.org/actualidad/eventos/cuantas-lenguas-hablara-la-ia-cuando-acabe-con-la-humanidad) "How many languages will the AI talk when it destroys humanity?" (in Spanish)
@@ -36,6 +37,7 @@ Recent talks, projects, courses
 
 Recent awards
 ======
+*  Best Spanish PhD on Artificial Intelligence by Oscar Sainz, 2025
 *   I am deeply honored to have been elected full member of [Jakiunde](https://www.jakiunde.eus/en/), Academy of Sciences, Arts and Humanities of the Basque Country
 *   [Best resource paper award](https://aclanthology.org/2024.acl-long.799/) @ ACL 2024
 *   [Fellow of the ACL](https://www.aclweb.org/portal/content/acl-fellows-2021), a selective worldwide group of 74 research leaders, 2021
