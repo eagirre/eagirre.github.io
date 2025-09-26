@@ -7,6 +7,7 @@ author_profile: true
 
 
 Current PhD students:
+* Md Abdur Razzaq Riyadh (2025- )
 *    Mikel Zubillaga (2024- )
 *    Ahmed Salem Elhady (2024-)
 *    Pius Peter Hugo von Däniken (2024- at University of Zurich)
