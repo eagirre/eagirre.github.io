@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Full Professor** at the [Computer Science Faculty](https://www.ehu.eus/eu/web/informatika-fakultatea) of the [University of the Basque Country UPV/EHU](http://www.ehu.eus). I am the **director** of the recently created [HiTZ Centre on Language Technology](http://hitz.eus), where I am part of the [Ixa Research Group](http://ixa.eus). I was the founder and first director of the HiTZ Chair on Artificial Intelligence and Language Technology, part of the Spanish "Estrategia Nacional de Inteligencia Artificial". I am **[Fellow of the ACL](https://www.aclweb.org/portal/content/acl-fellows-2021)**, a selective worldwide group of around a 100 research leaders and **awardee of the [National Research Prize on Informatics](https://www.fbbva.es/premios/premios-investigacion-sociedad-cientifica-informatica-espana-fundacion-bbva-2021/#galardonados)** ([video and speech](https://www.fbbva.es/galardonados/eneko-agirre/)). I am a **full member of [Jakiunde](https://www.jakiunde.eus/en/)**, Academy of Sciences, Arts and Humanities of the Basque Country. Fellow of the [AAIA](https://aaia-ai.org/fellows?words=agirre). I have been officially appointed to the **Advisory Board on Basque** of the Basque Government. Several students of mine won **best PhD awards**, including [EurAI European Artificial Intelligence PhD Dissertation Award](https://www.eurai.org/award/mikel-artexte), the Spanish PhD award on Artificial Intelligence (Oscar Sainz) and the Spanish PhD award on NLP (Aitor Gonzalez-Agirre).
+I am a **Full Professor** at the [Computer Science Faculty](https://www.ehu.eus/eu/web/informatika-fakultatea) of the [University of the Basque Country UPV/EHU](http://www.ehu.eus). I am the **director** of the recently created [HiTZ Centre on Language Technology](http://hitz.eus), where I am part of the [Ixa Research Group](http://ixa.eus). I was the founder and first director of the HiTZ Chair on Artificial Intelligence and Language Technology, part of the Spanish "Estrategia Nacional de Inteligencia Artificial". I am **[Fellow of the ACL](https://www.aclweb.org/portal/content/acl-fellows-2021)**, a selective worldwide group of around a 100 research leaders and **awardee of the [National Research Prize on Informatics](https://www.fbbva.es/premios/premios-investigacion-sociedad-cientifica-informatica-espana-fundacion-bbva-2021/#galardonados)** ([video and speech](https://www.fbbva.es/galardonados/eneko-agirre/)). Fellow of the [AAIA](https://aaia-ai.org/fellows?words=agirre). I am a **full member of [Jakiunde](https://www.jakiunde.eus/en/)**, Academy of Sciences, Arts and Humanities of the Basque Country. I have been officially appointed to the **Advisory Board on Basque** of the Basque Government. Several students of mine won **best PhD awards**, including [EurAI European Artificial Intelligence PhD Dissertation Award](https://www.eurai.org/award/mikel-artexte), the Spanish PhD award on Artificial Intelligence (Oscar Sainz) and the Spanish PhD award on NLP (Aitor Gonzalez-Agirre).
 
 <!-- I collaborate with the [Udako Euskal Unibertsitatea](http://ueu.eus/). -->
 
@@ -39,7 +39,8 @@ Recent talks, projects, courses
 
 Recent awards
 ======
-*  Best Spanish PhD on Artificial Intelligence by Oscar Sainz, 2025
+*   Best Spanish PhD on Artificial Intelligence by Oscar Sainz, 2025
+*  Fellow of the [AAIA](https://aaia-ai.org/fellows?words=agirre).
 *   I am deeply honored to have been elected full member of [Jakiunde](https://www.jakiunde.eus/en/), Academy of Sciences, Arts and Humanities of the Basque Country
 *   [Best resource paper award](https://aclanthology.org/2024.acl-long.799/) @ ACL 2024
 *   [Fellow of the ACL](https://www.aclweb.org/portal/content/acl-fellows-2021), a selective worldwide group of 74 research leaders, 2021
@@ -56,6 +57,7 @@ Recent awards
 
 Professional service
 ======
+* Senior Area Chair on NLP for the premier AI conference IJCAI (2026)
 *   Member of the Coling Best Paper Award commitee (2025)
 *   Member of the ACL [Test-of-Time Paper](https://www.aclweb.org/portal/content/announcement-2024-acl-test-time-paper-award-0) Award commitee (2024) 
 *   Area committee member for [CORE Conference Rankings](https://www.core.edu.au/conference-portal) (2023)
