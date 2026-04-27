@@ -50,7 +50,7 @@ Recent awards
 Professional service
 ======
 * Senior Area Chair on NLP for the premier AI conference IJCAI (2026)
-* Area Chair for the EACL conference (2026)
+* Area Chair for the EACL conference (2025)
 *   Member of the Coling conference Best Paper Award commitee (2025)
 *   Member of the ACL Conference [Test-of-Time Paper](https://www.aclweb.org/portal/content/announcement-2024-acl-test-time-paper-award-0) Award commitee (2024) 
 *   Area committee member for [CORE Conference Rankings](https://www.core.edu.au/conference-portal) (2023)
