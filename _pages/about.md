@@ -17,6 +17,7 @@ I am a **Full Professor** at the [Computer Science Faculty](https://www.ehu.eus/
 
 Recent talks, projects, courses
 ======
+*   [Deep Learning for Natural Language Processing course](https://hitz.eus/dl4nlp) (Starting June 1st 2026!)
 * Scientific mentor on the AI stream for Creative Destruction Lab ([CDL](https://creativedestructionlab.com/)) at [CDL-San Sebastian](https://www.linkedin.com/company/cdl-san-sebastian/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3Bke9sttlMSayjVL1hdFA8RA%3D%3D)
 * Invited talks on "LLMs and low-resource languages" in 2026 at University of Sheffield, Ellis Workshop on NLP (Venice), Workshop on Digital Language Sovereignty (Helsinki), Vision 2031: An International Conference on Development and Democracy (Kerala, India), Real Sociedad Vascongada de Amigos del País (Bilbao) and JakinMina (Donostia).
 *  Invited talks on "LLMs and low-resource languages" in 2024 at [University of Edinburgh](https://informatics.ed.ac.uk/ilcc/news-events/previous-seminars/friday-4th-october-1200-eneko-agirre-seminar), [University of Cambridge](https://talks.cam.ac.uk/talk/index/224134), [University of Aberdeen](https://www.abdn.ac.uk/research/explore/data-ai-572.php) , [NPLD-Coppieters Campus](https://npld.eu/npld-coppieters-campus-2024/), [Tecnalia](https://www.tecnalia.com/) and [Lehendakaritza](https://www.irekia.euskadi.eus/es/news/97881-lehendakaritzak-euskararen-egunaren-urteurrena-ospatu)
@@ -24,16 +25,7 @@ Recent talks, projects, courses
 *   Co-organizer of [data-contamination workshop](https://conda-workshop.github.io/) @ ACL 2024
 *   Invited talk on [C-SEPLN webinar series](http://www.sepln.org/actualidad/eventos/c-sepln-cuantas-lenguas-hablara-la-ia-cuando-acabe-con-la-humanidad) "How many languages will the AI talk when it destroys humanity?" (in Spanish)
     * Previous versions on [Sistedes webinar 2024 series](https://biblioteca.sistedes.es/entities/seminario/48a3588f-76df-461d-bbd3-6dc718e509d1) (in Spanish), and on a more divulgative note (in Basque) on [UEU 2023 course opening](https://www.youtube.com/watch?v=_hGuU9Klbzc&t=128s), Science Faculty and [Zientziaren Giltzak Elkartea](https://zientziarengiltzak.org/)        <!-- ZTF https://www.youtube.com/watch?v=aHWMfwsdEWo&list=PLdrskDVo8ogH0vZUUwcoDmh7XqMek-DUe&index=2-->
-*   Panelist in EMNLP 2023 Workshop [Panel](https://pan-dl.github.io/2023/panel) (Singapore): "Pattern-based Approaches to NLP in the Age of Deep Learning"
-*   Invited crash course on NLP at University of Surrey, Oct. 2023
-*   Deep Learning for Natural Language Processing course at [DeepLearn July 2023](https://irdta.eu/deeplearn/2023su/) and [DeepLearn April 2022](https://irdta.eu/deeplearn/2022sp/)
-*   [Deep Learning for Natural Language Processing course](http://ixa.eus/dl4nlp) (twice a year, Winter and Summer)
-*   Keynote talks on "Few-shot Information Extraction is Here: Pre-train, Prompt and Entail" at several venues in 2022:
-    *  In chronological order: [NLDB](https://nldb2022.prhlt.upv.es/#speakers-section), [SIGIR](https://sigir.org/sigir2022/program/keynotes/),  [TSD](https://www.tsdconference.org/tsd2022/), [IWSKR workshop](https://iwskr.github.io/) of the [AKBC](https://www.akbc.ws/2022/) and [Northeastern University](https://ai.northeastern.edu/eai-seminar-series/)
-    *  Most Recent [Slides](https://hitz.eus/eneko/tmp/FewShotIE.northeastern.pdf) and [video](https://www.youtube.com/watch?v=ADWyiyUPgnw) (those at SIGIR: [slides](https://hitz.eus/eneko/tmp/sigir2022keynote.pdf) and [video](https://player.vimeo.com/video/747940621?h=43626a6276)) <!-- https://youtu.be/XfsZxyds_xE at TSD -->
-    *  [Papers and code](https://github.com/osainz59/Ask2Transformers) 
-    <!-- *  A shorter version at the [IWSKR workshop](https://iwskr.github.io/) of the [AKBC](https://www.akbc.ws/2022/) conference -->
-*   Co-organizer of Deep Learning Inside Out ([DeeLIO](https://sites.google.com/view/deelio-ws/)) workshop at ACL 2022, a workshop on Knowledge Extraction and Integration for Deep Learning Architectures (also in 2020, 2021)
+
 
 
 
