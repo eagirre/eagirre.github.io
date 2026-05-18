@@ -44,6 +44,8 @@ Recent awards
 *   Won a prize in White House promoted challenge related to COVID-19 [(details)](https://www.ehu.eus/es/-/el-grupo-de-investigacion-ixa-aplica-la-inteligencia-artificial-contra-el-covid-19) 2020
 *   Recipient of a 2019 [Google Faculty Research Award](https://ai.google/research/outreach/faculty-research-awards/) for research on conversational QA (also in 2017 and 2018)
 *   Part of the team who won the 2020 OpenCLIR Text Track Challenge [(organised by NIST and IARPA)](https://twitter.com/IARPAnews/status/1192855406890094596)
+* Our 2017 discovery that we could **train a machine translation system without any bilingual data** made into [Science news](https://www.science.org/content/article/artificial-intelligence-goes-bilingual-without-dictionary).
+
 
 
 
@@ -63,7 +65,6 @@ Professional service
 *   Usual senior area chair, area chair and reviewer at ACL conferences, EMNLP, COLING, CoNLL, IJCAI, AAAI, Neurips and ICLR
 
 
-Our 2017 discovery that we could **train a machine translation system without any bilingual data** made into [Science news](https://www.science.org/content/article/artificial-intelligence-goes-bilingual-without-dictionary).
 
 The book on **WSD**:
 *	Word Sense Disambiguation: Algorithms and applications ([Springer](https://www.springer.com/gp/book/9781402048081#otherversion=9781402068706). Agirre, Eneko; Edmonds, Philip (Eds.) 2006 and 2007. 
