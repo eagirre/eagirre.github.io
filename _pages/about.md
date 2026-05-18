@@ -63,6 +63,8 @@ Professional service
 *   Usual senior area chair, area chair and reviewer at ACL conferences, EMNLP, COLING, CoNLL, IJCAI, AAAI, Neurips and ICLR
 
 
+Our 2017 discovery that we could **train a machine translation system without any bilingual data** made into [Science news](https://www.science.org/content/article/artificial-intelligence-goes-bilingual-without-dictionary).
+
 The book on **WSD**:
 *	Word Sense Disambiguation: Algorithms and applications ([Springer](https://www.springer.com/gp/book/9781402048081#otherversion=9781402068706). Agirre, Eneko; Edmonds, Philip (Eds.) 2006 and 2007. 
 
